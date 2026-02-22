@@ -1,2 +1,8 @@
-# cybersecurity-writeups
-TryHackMe and HackTheBox walkthroughs and cybersecurity practice reports.
+# Cybersecurity Writeups
+
+This repository contains my cybersecurity practice walkthroughs
+from TryHackMe, HackTheBox and personal labs.
+
+## TryHackMe
+
+- Cyborg Walkthrough
