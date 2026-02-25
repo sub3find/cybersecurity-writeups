@@ -6,3 +6,4 @@ from TryHackMe, HackTheBox and personal labs.
 ## TryHackMe
 
 - Cyborg Walkthrough
+- Fowsniff Walkthrough
